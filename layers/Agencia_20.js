@@ -1,0 +1,1 @@
+var json_Agencia_20 = {"type":"FeatureCollection","name":"Agencia_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Localidad":"VIEDMA","Entidad":"RENATRE (propia)","Direccion":"Laprida 83"},"geometry":{"type":"Point","coordinates":[-62.994162184383832,-40.810164937381245]}}]}
